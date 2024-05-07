@@ -1,0 +1,14 @@
+.count {
+    font-size: 80px;
+    font-family: 'Roboto';
+    color: #2e3e4e;
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 426px) {
+    .count {
+        font-size: 64px;
+        margin-bottom: 10px;
+    }
+}
