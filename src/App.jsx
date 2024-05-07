@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Counter from './components/Counter'
-import logo from '/react-redux.png'
+import logo from './react-redux.svg'
 import { useDispatch } from 'react-redux'
 import {
   increment,
